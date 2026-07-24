@@ -40,3 +40,13 @@ The Accuracy Paradox: A naive model predicting "No Fraud" on this dataset achiev
 Baseline vs. Optimized: The baseline Logistic Regression caught 92% of fraud but flagged 1,410 innocent transactions, resulting in a net financial loss. The XGBoost model caught 86% of fraud but reduced false alarms to just 33, proving vastly superior for business deployment.
 
 Financial Impact: The XGBoost model delivered a $19,215 value add over the baseline model based on our simulated cost-benefit matrix.
+
+How to View & Run the Project
+
+This project was developed and executed entirely within Kaggle, meaning no local environment setup or massive data downloads are required!
+
+View the Analysis: Read through the complete, interactive notebook here: https://www.kaggle.com/code/swaggpale/creditcard-fraud-analysis
+
+Run the Code: The creditcard.csv dataset is automatically attached to the Kaggle environment. To run or modify the code yourself, simply click "Copy & Edit" in the top right corner of the Kaggle notebook to fork the environment and execute the cells.
+
+Created as a comprehensive portfolio project demonstrating end-to-end data processing, machine learning, and financial impact analysis.
