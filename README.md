@@ -46,6 +46,7 @@ How to View & Run the Project
 This project was developed and executed entirely within Kaggle, meaning no local environment setup or massive data downloads are required!
 
 View the Analysis: Read through the complete, interactive notebook here: https://www.kaggle.com/code/swaggpale/creditcard-fraud-analysis
+Dashboard Link: https://public.tableau.com/views/Credit_card_fraud_detection_model/Credit_card_Farud_detection?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Run the Code: The creditcard.csv dataset is automatically attached to the Kaggle environment. To run or modify the code yourself, simply click "Copy & Edit" in the top right corner of the Kaggle notebook to fork the environment and execute the cells.
 
